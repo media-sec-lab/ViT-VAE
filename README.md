@@ -3,7 +3,7 @@ This repo is the official implementation of "Learning Traces by Yourself: Blind 
 Localization via Anomaly Detection with ViT-VAE". <br>
 
 <p align='center'>  
-  <img src='https://github.com/media-sec-lab/ViT-VAE/blob/master/ViT-VAE.png' width='550'/>
+  <img src='https://github.com/media-sec-lab/ViT-VAE/blob/master/ViT-VAE.png' width='700'/>
 </p>
 
 # Installation
